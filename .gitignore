@@ -3,4 +3,5 @@
 *.tfstate.backup
 terraform.tfstate
 terraform.tfstate.backup
-usr_mgt.tf/
+usr_mgt.tf
+.terraform.lock.hcl
